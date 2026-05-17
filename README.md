@@ -5,6 +5,7 @@ Data Sources: Historical baselines are sourced from the World Bank, combined wit
 Context/Background: The dataset tracks international tourist arrivals to monitor the recovery and growth trends of global tourism over recent years (2022, 2023) and provides forecasts for 2024 against historical benchmarks.
 
 2. Data Cleaning
+   
 Identify missing values and decide how to handle these missing values:
 Some countries contained missing values for certain tourism indicators. These values were retained because they may represent unavailable or unreported data rather than data entry errors. Completely blank rows were removed from the dataset.
 
