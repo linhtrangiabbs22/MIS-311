@@ -25,7 +25,8 @@ The dataset was also examined for duplicate entries to avoid repeated informatio
 
 ## 3. Descriptive Statistics
 
-![Descriptive Statistics](Descriptive_Statistics.png)
+<img width="809" height="175" alt="Descriptive_Statistics png" src="https://github.com/user-attachments/assets/5f336447-397d-407a-b587-b2e2029ed9cf" />
+
 
 The descriptive statistics summarise the main characteristics of the dataset, including average tourist arrivals, minimum and maximum values, and the variation in tourism performance across countries.
 
@@ -33,7 +34,8 @@ The descriptive statistics summarise the main characteristics of the dataset, in
 
 ## 4. Tourist Arrivals (2022 vs 2023)
 
-![Tourist Arrivals](Tourist_Arrivals_2022_2023.png)
+<img width="170" height="104" alt="Tourist_Arrivals_2022_2023 png" src="https://github.com/user-attachments/assets/5a7dc6ac-d5b0-461e-8b53-f912aeda4549" />
+
 
 The chart compares tourist arrivals between 2022 and 2023 across selected countries. The visualisation highlights tourism recovery and changes in international travel demand after the pandemic period.
 
@@ -41,7 +43,8 @@ The chart compares tourist arrivals between 2022 and 2023 across selected countr
 
 ## 5. Top 10 Most Visited Countries in 2024
 
-![Top 10 Countries 2024](Top10_Countries_2024.png)
+<img width="167" height="98" alt="Top10_Countries_2024 png" src="https://github.com/user-attachments/assets/6d8e4b45-c9c0-4ff1-b968-d02ef965c290" />
+
 
 The chart presents the countries with the highest predicted tourist arrivals in 2024. The results suggest continued growth in the global tourism industry and increasing international travel demand.
 
